@@ -1,4 +1,4 @@
-# Introduction to Machine Learning 2022-2023 
+# Introduction to Machine Learning 2023-2024 (Mod. A)
 
 Course for the Artificial Intelligence and Data Analytics Bachelor Degree - University of Trieste
 
