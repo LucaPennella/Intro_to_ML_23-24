@@ -26,21 +26,11 @@ Notebooks:
 
 * [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and Support Vector Machines ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
-* [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression ([solution](solved-notebooks/SOLVED_Lab_9_Kernel_Regression.ipynb))
 
-* [Lab 10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel PCA and Kernel SVM ([solution](solved-notebooks/SOLVED-Lab-10_KernelPCA_KernelSVM.ipynb))
 
-* [Lab 11](notebooks/Lab-11.Pytorch_NN.ipynb): Introduction to PyTorch
 
-* [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb): Implicit regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
 
-* [Lab 13](notebooks/Lab-13.Autoencoders.ipynb): Autoencoders ([solution](solved-notebooks/SOLVED-Lab-13.Autoencoders.ipynb))
 
-* [Lab 14](notebooks/Lab-14.Q&A.ipynb): Q & A
-
-* [Lab 15](notebooks/Lab-15.RL_QLearning.ipynb): Reinforcement Learning pt. 1, Q-Learning ([solution](solved-notebooks/SOLVED-Lab-15.RL_QLearning.ipynb))
-
-* [Lab 16](notebooks/Lab-16.RL_DeepQLearning.ipynb): Reinforcement Learning pt. 2, Deep Q-Learning ([solution](solved-notebooks/SOLVED-Lab-16.RL_DeepQLearning.ipynb))
 
 Challenges:
 
