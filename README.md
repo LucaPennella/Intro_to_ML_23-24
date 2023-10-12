@@ -39,5 +39,3 @@ Challenges:
 * [Challenge 1](challenges/challenge-one.ipynb): Binary Classification with Unsupervised and Supervised Learning Techniques
 
 * [Challenge 2](challenges/challenge_two.ipynb): Kernel Ridge Regression, Kernel PCA and SVM
-
-* [Challenge 3](challenges/challenge-three.ipynb): Artificial Neural Networks
