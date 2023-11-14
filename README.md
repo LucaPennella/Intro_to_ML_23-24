@@ -18,7 +18,7 @@ Notebooks:
 
 * [Lab 4](notebooks/Lab_4_RegressionAndRegularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation ([solution](solved-notebooks/SOLVED-Lab-4.RegressionAndRegularizations.ipynb))
 
-* [Lab 5](notebooks/Lab_5.UnsupervisedLearning.ipynb): Unsupervised Learning Algorithms ([solution](solved-notebooks/SOLVED-Lab_5.UnsupervisedLearning.ipynb))
+* [Lab 5](notebooks/Lab_5_UnsupervisedLearning.ipynb): Unsupervised Learning Algorithms ([solution](solved-notebooks/SOLVED-Lab_5_UnsupervisedLearning.ipynb))
 
 * [Lab 6](notebooks/Lab-6.DecisionTreeNaiveBayes.ipynb): Decision Trees and Naive Bayes ([solution](solved-notebooks/SOLVED-Lab-6.DecisionTreeNaiveBayes.ipynb))
 
