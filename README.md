@@ -24,7 +24,7 @@ Notebooks:
 
 * [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb): KNN, Trees and Naive Bayes for numerical features ([solution](solved-notebooks/SOLVED_Lab_7_KNNGaussianNaiveBayesTrees.ipynb))
 
-* [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM ([solution]())
+* [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM ([solution](solved-notebooks/SOLVED_Lab_8.Perceptron_and_SVM.ipynb))
 
 
 
