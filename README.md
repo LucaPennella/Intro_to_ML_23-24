@@ -26,6 +26,8 @@ Notebooks:
 
 * [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
+* [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Perceptron and SVM ([solution]())
+
 
 
 
