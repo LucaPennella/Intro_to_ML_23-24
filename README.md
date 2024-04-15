@@ -32,7 +32,7 @@ Notebooks:
 
 * [Lab 11](notebooks/Lab-11.Pytorch_NN.ipynb): PyTorch tutorial
 
-* [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb) Implicit Regularization ([solution]())
+* [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb) Implicit Regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
 
 
 
