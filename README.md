@@ -45,5 +45,5 @@ Challenges:
 
 * [Challenge 2](challenges/challenge_two.ipynb): Kernel Ridge Regression and Kernel PCA
 
-* [Challenge 3](challenges/challenge_three.ipynb): Artifical Neural Networks
+* [Challenge 3](challenges/challenge-three.ipynb): Artifical Neural Networks
 
