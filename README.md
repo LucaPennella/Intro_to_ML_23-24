@@ -34,7 +34,9 @@ Notebooks:
 
 * [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb) Implicit Regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
 
-* [Lab 13](notebooks/Lab-13.Autoencoders.ipynb) Autoencoders ([solution]())
+* [Lab 13](notebooks/Lab-13.Autoencoders.ipynb) Autoencoders ([solution](solved-notebooks/SOLVED-Lab-13.Autoencoders.ipynb))
+
+* [Lab 14](notebooks/Lab-14.RL_Dynamic_programming.ipynb) RL: Dynamic Programming ([solution](solved-notebooks/SOLVED-Lab-14.RL_Dynamic_programming.ipynb))
 
 
 Challenges:
